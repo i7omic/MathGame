@@ -1,0 +1,14 @@
+/home/ilija/Documents/Coding/C#/CodeAcadamyCertification/MathGame/bin/Debug/net8.0/CodingTracker
+/home/ilija/Documents/Coding/C#/CodeAcadamyCertification/MathGame/bin/Debug/net8.0/CodingTracker.deps.json
+/home/ilija/Documents/Coding/C#/CodeAcadamyCertification/MathGame/bin/Debug/net8.0/CodingTracker.runtimeconfig.json
+/home/ilija/Documents/Coding/C#/CodeAcadamyCertification/MathGame/bin/Debug/net8.0/CodingTracker.dll
+/home/ilija/Documents/Coding/C#/CodeAcadamyCertification/MathGame/bin/Debug/net8.0/CodingTracker.pdb
+/home/ilija/Documents/Coding/C#/CodeAcadamyCertification/MathGame/obj/Debug/net8.0/CodingTracker.GeneratedMSBuildEditorConfig.editorconfig
+/home/ilija/Documents/Coding/C#/CodeAcadamyCertification/MathGame/obj/Debug/net8.0/CodingTracker.AssemblyInfoInputs.cache
+/home/ilija/Documents/Coding/C#/CodeAcadamyCertification/MathGame/obj/Debug/net8.0/CodingTracker.AssemblyInfo.cs
+/home/ilija/Documents/Coding/C#/CodeAcadamyCertification/MathGame/obj/Debug/net8.0/CodingTracker.csproj.CoreCompileInputs.cache
+/home/ilija/Documents/Coding/C#/CodeAcadamyCertification/MathGame/obj/Debug/net8.0/CodingTracker.dll
+/home/ilija/Documents/Coding/C#/CodeAcadamyCertification/MathGame/obj/Debug/net8.0/refint/CodingTracker.dll
+/home/ilija/Documents/Coding/C#/CodeAcadamyCertification/MathGame/obj/Debug/net8.0/CodingTracker.pdb
+/home/ilija/Documents/Coding/C#/CodeAcadamyCertification/MathGame/obj/Debug/net8.0/CodingTracker.genruntimeconfig.cache
+/home/ilija/Documents/Coding/C#/CodeAcadamyCertification/MathGame/obj/Debug/net8.0/ref/CodingTracker.dll
